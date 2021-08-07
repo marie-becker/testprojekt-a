@@ -1,4 +1,4 @@
-package Körper.Hand;
+package Koerper.Hand;
 
 public class Ringfinger implements Finger{
 }

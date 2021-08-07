@@ -1,4 +1,4 @@
-package Körper.Kopf;
+package Koerper.Kopf;
 
 public class Mund {
 }
