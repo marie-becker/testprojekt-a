@@ -1,4 +1,4 @@
 package Koerper.Hand;
 
-public class Ringfinger implements Finger{
+public class Ringfinger extends Mittelfinger implements Finger {
 }
